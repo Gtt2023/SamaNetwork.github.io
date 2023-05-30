@@ -4,7 +4,7 @@
 
 ***
 
-[SAMA Network](https://sama.network/)是一个利用独创设计的共识和业务分片、分离的新范式（简称CBP）构建一个具备高吞吐、数据全栈加密和分布式运算的区块链系统。
+[SAMA Network](https://sama.network/)是一个利用独创设计的共识和业务分片、分离的新范式（Consensus and Business sharding Separation Paradigm，简称CBSP）构建一个具备高吞吐、数据全栈加密和分布式运算的区块链系统。
 
 传统的区块链隐私网络总是基于链上资产和用户执行的合约业务来保护用户隐私，SAMA结合区块链加密技术将会建设更加广域、包容和自由的网络，并且提供分布式运算算力。
 
